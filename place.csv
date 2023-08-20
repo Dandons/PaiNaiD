@@ -1,0 +1,32 @@
+Province,LocationName,IsIndoor,WeatherCon,Purpose
+Bangkok,วัดพระแก้ว,N,SUNNY,Culture
+Bangkok,วัดอรุณ,N,SUNNY,Culture
+Bangkok,วัดโพธิ์,N,SUNNY,Culture
+Bangkok,วัดเบญจ,N,SUNNY,Culture
+Bangkok,ภูเขาทอง,N,SUNNY,Culture
+Bangkok,ICONSIAM,Y,RAIN,Shop
+Bangkok,Siam Paragon,Y,RAIN,Shop
+Bangkok,Samyan Mitrtown,Y,RAIN,Shop
+Bangkok,ท่ามหาราช,Y,SUNNY,Entertainment
+Bangkok,Asiatique,N,SUNNY,Entertainment
+Bangkok,ช่างชุ่ย,N,SUNNY,Entertainment
+Bangkok,ตลาดน้ำขวัญเรียม,N,SUNNY,Shop
+Bangkok,จ๊อดแฟร์,N,SUNNY,Shop
+Bangkok,พิพิธภัณฑสถานแห่งชาติพระนคร ,Y,RAIN,Culture
+Bangkok,ท้องฟ้าจำลอง,Y,RAIN,Science
+Bangkok,นิทรรศน์รัตนโกสินทร์,Y,RAIN,Culture
+Bangkok,Museum Siam,Y,SUNNY,Culture
+Bangkok,หอศิลป์ฯ กรุงเทพ,Y,RAIN,Culture
+Bangkok,Siam Square,Y,RAIN,Entertainment
+Bangkok,SEA LIFE Bangkok Ocean World,Y,RAIN,Entertainment
+Bangkok,Safari World,N,SUNNY,Science
+Pattaya,หาดพัทยา,N,SUNNY,Entertainment
+Pattaya,พิพิธภัณฑ์ปราสาทสัจธรรม,N,SUNNY,Culture
+Pattaya,เมืองจำลอง พัทยา,N,SUNNY,Culture
+Pattaya,Walking Street Pattaya,N,SUNNY,Shop
+Pattaya,Banlay Home Café,Y,RAIN,Entertainment
+Pattaya,อันเดอร์วอเตอร์เวิลด์ พัทยา,Y,RAIN,Science
+Pattaya,"ดอลฟินนาเรียมพัทยา
+",N,SUNNY,Entertainment
+Pattaya,Legend Siam,Y,RAIN,Culture
+Pattaya,เมืองน้ำแข็ง พัทยา,N,SUNNY,Entertainment
